@@ -1,0 +1,19 @@
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  text-align: center;
+  color: rosybrown;
+}
+h3 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+  color: rosybrown;
+}
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+  color: rosybrown;
+  text-decoration: wavy;
+}
